@@ -3,7 +3,7 @@
  This is a basic website abot me and my life's portfolio. It is three seperate pages. One page with my basic background information, the second page has links to my portfolio, and the third has a form for the viewer to fill out with their contact information.
 
 Getting Started
-[](images/aboutme.jpg) [](images/portfolio.jpg) [](images/contact.jpg)
+[](images/filename aboutme.jpg) [](images/filename portfolio.jpg) [](images/filename contact.jpg)
 
 Prerequisites
 NONE! just enjoy the website
