@@ -5,7 +5,7 @@
 This is a basic website abot me and my life's portfolio. It is three seperate pages. One page (index.html) with my basic background information, the second page (portfolio.html) has links to my portfolio, and the third (contact.html) has a form for the viewer to fill out with their contact information.
 
 # Getting Started #
-![contact page](images\aboutme.jpg "contact page")
+![contact page](aboutme.jpg "contact page")
 
 # Prerequisites #
 NONE! just enjoy the website
