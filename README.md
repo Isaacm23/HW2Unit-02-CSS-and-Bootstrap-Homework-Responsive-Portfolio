@@ -1,16 +1,18 @@
 # HW2
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
- This is a basic website abot me and my life's portfolio. It is three seperate pages. One page with my basic background information, the second page has links to my portfolio, and the third has a form for the viewer to fill out with their contact information.
 
-Getting Started
+# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+
+This is a basic website abot me and my life's portfolio. It is three seperate pages. One page with my basic background information, the second page has links to my portfolio, and the third has a form for the viewer to fill out with their contact information.
+
+# Getting Started #
 [](images/aboutme.jpg) [](images/portfolio.jpg) [](images/contact.jpg)
 
-Prerequisites
+# Prerequisites #
 NONE! just enjoy the website
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+# Using bootstrap #
+
+The primary tool used for this site was twitter's bootstrap. At the bottom of each html is a link to bootsrap code. This allows the website to do complex procedures without me writing all the code myself. For example, the navigation bar is the same on each page, and when it collapses it creates a hamburger drop down menu, this was accomplished by pasting code straight from boostraps website, it was that simple. Bootstrap was also used to make the cards on each page. For the index html or the about me page, a simple card with one picture and one paragraph was used. For the contact html,a card with a form inside it was used. For the portfolio page a card-index code was used to make multiple rows of pictures. Along 
 
 Say what the step will be
 
