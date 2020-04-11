@@ -5,6 +5,11 @@ This is a basic website about me and my life's portfolio. It is three seperate p
 
 ## Getting Started ##
 [](images/aboutme.jpg) [](images/portfolio.jpg) [](images/contact.jpg)
+# Getting Started #
+![aboutme page](images/aboutme.jpg "img aboutme")
+![portfolio page](images/portfolio.jpg "img portfolio")
+![contact page](images/contact.jpg "img contact")
+
 
 # Prerequisites #
 NONE! just enjoy the website
