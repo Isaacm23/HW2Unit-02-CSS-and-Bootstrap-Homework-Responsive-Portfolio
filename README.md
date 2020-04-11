@@ -1,10 +1,9 @@
-# HW2
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-This is a basic website abot me and my life's portfolio. It is three seperate pages. One page (index.html) with my basic background information, the second page (portfolio.html) has links to my portfolio, and the third (contact.html) has a form for the viewer to fill out with their contact information.
+This is a basic website about me and my life's portfolio. It is three seperate pages. One page (index.html) with my basic background information, the second page (portfolio.html) has links to my portfolio, and the third (contact.html) has a form for the viewer to fill out with their contact information.
 
-# Getting Started #
+## Getting Started ##
 [](images/aboutme.jpg) [](images/portfolio.jpg) [](images/contact.jpg)
 
 # Prerequisites #
@@ -17,7 +16,9 @@ The primary tool used for this site was twitter's bootstrap. At the bottom of ea
 
 # Built With #
 Visual Studio
+
 Bootstrap
+
 github
 
 
