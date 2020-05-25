@@ -1,7 +1,7 @@
-.card-img {
-    height: 200px;
-    
-  };
+img {
+  max-width: 50%;
+  height: 50%;
+}
   
   
   .navColor { 
@@ -9,7 +9,6 @@
 
   };
 
-  img { 
-    float: left;
-  };
+ 
+ 
  
